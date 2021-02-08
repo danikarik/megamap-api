@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rubocop", "~> 1.9"
 gem "rubocop-rails", "~> 2.9"
+
+gem "tailwindcss-rails", "~> 0.3.3"

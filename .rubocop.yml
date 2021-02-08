@@ -1,0 +1,11 @@
+require: rubocop-rails
+
+AllCops:
+  Exclude:
+    - db/schema.rb
+    - tmp/**/*
+    - bin/**/*
+    - node_modules/**/*
+
+Style/Documentation:
+  Enabled: false
